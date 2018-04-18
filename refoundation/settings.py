@@ -1,3 +1,5 @@
+#refundation settings
+
 """
 Django settings for refoundation project.
 
